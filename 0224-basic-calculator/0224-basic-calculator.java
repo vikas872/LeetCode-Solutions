@@ -25,7 +25,10 @@ class Solution {
                 st.push(sign);
                 sum = 0;
                 sign = 1;
-            }else if(s.charAt(i)==')'){
+            }else if(s.charAt(i)==' '){
+                continue;
+            }
+            else{
                 int prvSign = st.pop();
                 sum = sum*prvSign;
                 int prvSum = st.pop();
