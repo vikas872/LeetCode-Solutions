@@ -1,45 +1,39 @@
 class CustomStack {
-    ArrayList<Integer> list;
-    int currInd = -1;
-    int max;
-
+    int[] st;
+    int[] inc;
+    int last;
     public CustomStack(int maxSize) {
-         max = maxSize;
-        list = new ArrayList<>();
-
+        st = new int[maxSize];
+        inc = new int[maxSize];
+        last = -1;
     }
-
+    
     public void push(int x) {
-        if (currInd < max - 1) {
-            currInd++;
-            list.add(x);
-        } else {
-            
+        if(last<st.length-1){
+            st[last+1] = x;
+            last++;
         }
     }
-
+    
     public int pop() {
-        if (list.size() == 0) {
+        if(last==-1){
             return -1;
-        } else {
-            currInd--;
-            int val = list.get(list.size()-1);
-            list.remove(list.size()-1);
-            return val;
         }
+        int ans = st[last] + inc[last];
+        if(last>0){
+            inc[last-1]+=inc[last];
+        }
+        inc[last] = 0;
+        last--;
+        return ans;
     }
-
+    
     public void increment(int k, int val) {
-        if (k > currInd) {
-            for (int i=0;i< list.size();i++) {
-                list.set(i, list.get(i) + val);
-            }
-        } else {
-            for (int i = 0; i < k; i++) {
-                list.set(i, list.get(i) + val);
-            }
-
+        if(last==-1){
+            return;
         }
+        int ind = Math.min(k-1,last);
+        inc[ind] += val;
     }
 }
 
