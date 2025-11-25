@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/vikas872/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/vikas872/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/vikas872/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/vikas872/LeetCode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Recursion
 |  |
 | ------- |
@@ -24,8 +25,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vikas872/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/vikas872/LeetCode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vikas872/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/vikas872/LeetCode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
