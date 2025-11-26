@@ -27,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vikas872/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0641-design-circular-deque](https://github.com/vikas872/LeetCode-Solutions/tree/master/0641-design-circular-deque) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/vikas872/LeetCode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vikas872/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0641-design-circular-deque](https://github.com/vikas872/LeetCode-Solutions/tree/master/0641-design-circular-deque) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/vikas872/LeetCode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Two Pointers
 |  |
@@ -41,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/vikas872/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+## Linked List
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/vikas872/LeetCode-Solutions/tree/master/0641-design-circular-deque) |
+## Queue
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/vikas872/LeetCode-Solutions/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
