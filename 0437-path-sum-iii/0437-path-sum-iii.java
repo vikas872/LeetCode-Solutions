@@ -1,35 +1,36 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
-    
-    // 1. This function visits every node in the tree (The "Manager")
-    public int pathSum(TreeNode root, int targetSum) {
-        if (root == null) {
+    public int pathSum(TreeNode root, int sum) {
+        if(root==null){
             return 0;
         }
-        
-        // Count paths starting from THIS node
-        // + Count paths starting from ANY node in left subtree
-        // + Count paths starting from ANY node in right subtree
-        return countPaths(root, targetSum, 0) 
-             + pathSum(root.left, targetSum) 
-             + pathSum(root.right, targetSum);
+        return count(root,sum,0) + pathSum(root.left,sum) + pathSum(root.right,sum);
     }
 
-    // 2. This function only counts paths starting at the specific 'node' given (The "Worker")
-    private int countPaths(TreeNode node, int target, long currentSum) {
-        if (node == null) {
+    private int count(TreeNode  root, int sum, long curr){
+        if(root==null){
             return 0;
         }
-
-        currentSum += node.val;
-        
-        int count = 0;
-        if (currentSum == target) {
-            count = 1;
+        curr+=root.val;
+        int cnt = 0;
+        if(curr==sum){
+            cnt = 1;
         }
-        
-        // Note: We don't return immediately if (currentSum == target). 
-        // We continue because nodes can be 0 or negative (e.g., path is 8 -> -5 -> 5, sum is still 8)
-        return count + countPaths(node.left, target, currentSum) 
-                     + countPaths(node.right, target, currentSum);
+
+        return cnt + count(root.left,sum,curr) + count(root.right,sum,curr);
     }
 }
