@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/vikas872/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/vikas872/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vikas872/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0328-odd-even-linked-list](https://github.com/vikas872/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0641-design-circular-deque](https://github.com/vikas872/LeetCode-Solutions/tree/master/0641-design-circular-deque) |
 ## Queue
 |  |
