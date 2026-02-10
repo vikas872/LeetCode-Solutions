@@ -9,28 +9,38 @@
  * }
  */
 class Solution {
-    public ListNode mergeKLists(ListNode[] lists) {
-        ArrayList<Integer> ans = new ArrayList<>();
-        int n = lists.length;
-        for(int i=0;i<n;i++){
-            ListNode temp = lists[i];
-            ListNode curr = temp;
-            while(curr!=null){
-                ans.add(curr.val);
-                curr = curr.next;
+    class Pair{
+        int val;
+        ListNode node;
+        public Pair(Integer val, ListNode node){
+            this.val = val;
+            this.node = node;
+        }
+    }
+    public ListNode mergeKLists(ListNode[] arr) {
+        PriorityQueue<Pair> pq = new PriorityQueue<>(
+            (a,b) -> a.val-b.val
+        );
+        for(int i=0;i<arr.length;i++){
+           if(arr[i]!=null){
+             pq.add(new Pair(arr[i].val, arr[i]));
+           }
+        }
+        ListNode dummy = new ListNode(0);
+        ListNode temp = dummy;
 
+        while(pq.isEmpty()==false){
+            Pair curr = pq.poll();
+            Integer val = curr.val;
+            ListNode currNode = curr.node;
+            temp.next = currNode;
+            temp = temp.next;
+
+            if(currNode.next!=null){
+                pq.add(new Pair(currNode.next.val, currNode.next));
             }
+            
         }
-        if (ans.size() == 0) return null;
-        Collections.sort(ans);
-        ListNode head = new ListNode(ans.get(0));
-        ListNode tem = head;
-        for(int i=1;i<ans.size();i++){
-            ListNode curr2 = new ListNode(ans.get(i));
-            tem.next = curr2;
-            tem = tem.next;
-        }
-        return head;
-
+        return dummy.next;
     }
 }
