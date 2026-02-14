@@ -1,15 +1,15 @@
 class Solution {
     private int gcd(int a, int b){
-        while(b!=0){
-            int temp = b;
-            b = a%b;
-            a = temp;
+        if(b==0){
+            return a;
         }
-        return a;
+        return gcd(b, a%b);
+        // return ans;
+        // return -1;
     }
     public int minOperations(int[] nums, int[] numsDivide) {
         int g = numsDivide[0];
-        for(int i=0;i<numsDivide.length;i++){
+        for(int i=1;i<numsDivide.length;i++){
             g = gcd(g,numsDivide[i]);
         }
 
