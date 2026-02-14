@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vikas872/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/vikas872/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/vikas872/LeetCode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## String
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/vikas872/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0641-design-circular-deque](https://github.com/vikas872/LeetCode-Solutions/tree/master/0641-design-circular-deque) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/vikas872/LeetCode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/vikas872/LeetCode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Design
 |  |
 | ------- |
@@ -137,8 +139,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vikas872/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/vikas872/LeetCode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vikas872/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Sorting
+|  |
+| ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/vikas872/LeetCode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+## Number Theory
+|  |
+| ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/vikas872/LeetCode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 <!---LeetCode Topics End-->
