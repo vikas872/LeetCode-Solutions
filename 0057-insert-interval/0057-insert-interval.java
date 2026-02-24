@@ -1,27 +1,27 @@
 class Solution {
-    public int[][] insert(int[][] inter, int[] newI) {
-        List<int[]> sorted = new ArrayList<>();
-        for(int[] in:inter){
-            sorted.add(in);
+    public int[][] insert(int[][] arr, int[] val) {
+        ArrayList<int[]> ans = new ArrayList<>();
+        for(int[] in:arr){
+            ans.add(in);
         }
-        sorted.add(newI);
-        // int[][] arr = new int[inter.length+1][2];
-        // arr = sorted.toArray();
-        int[][] arr = sorted.toArray(new int[sorted.size()][]);
-        Arrays.sort(arr,(a,b) -> Integer.compare(a[0],b[0]));
-        sorted.clear();
-        sorted.add(arr[0]);
-        for(int i=1;i<arr.length;i++){
-            int[] curr = arr[i];
-            int[] prv = sorted.get(sorted.size()-1);
+        ans.add(val);
+        int[][] sorted = new int[ans.size()][];
+        sorted = ans.toArray(new int[ans.size()][]);
+        Arrays.sort(sorted,(a,b) -> Integer.compare(a[0],b[0]));
+        ans.clear();
+        ans.add(sorted[0]);
+        for(int i=1;i<sorted.length;i++){
+            int[] curr = sorted[i];
+            int[] prv = ans.get(ans.size()-1);
             if(curr[0]<=prv[1]){
-                prv[1] = Math.max(curr[1],prv[1]);
+                prv[1] = Math.max(prv[1],curr[1]);
             }
             else{
-                sorted.add(curr);
+                ans.add(curr);
             }
         }
-        return sorted.toArray(new int[sorted.size()][]);
+
+        return ans.toArray(new int[ans.size()][]);
 
     }
 }
