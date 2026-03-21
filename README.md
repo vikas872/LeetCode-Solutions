@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vikas872/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/vikas872/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/vikas872/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/vikas872/LeetCode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## String
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vikas872/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vikas872/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0641-design-circular-deque](https://github.com/vikas872/LeetCode-Solutions/tree/master/0641-design-circular-deque) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/vikas872/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/vikas872/LeetCode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/vikas872/LeetCode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Design
