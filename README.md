@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/vikas872/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vikas872/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/vikas872/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0844-backspace-string-compare](https://github.com/vikas872/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/vikas872/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/vikas872/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vikas872/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vikas872/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0844-backspace-string-compare](https://github.com/vikas872/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
