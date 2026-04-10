@@ -1,17 +1,16 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
+        s= s.lower()
+        arr = []
+        for ch in s:
+            if ch.isalnum():
+                arr.append(ch)
         l=0
-        r=len(s)-1
-        s=s.lower()
-
-        while(l<r):
-            while l<r and s[l].isalnum()==False:
-                l+=1
-            while l<r and s[r].isalnum()==False:
-                r-=1
-            if s[l]!=s[r]:
+        n=len(arr)
+        r=n-1
+        while l<r:
+            if arr[l]!=arr[r]:
                 return False
-            l+=1
             r-=1
+            l+=1
         return True
-        
