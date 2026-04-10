@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/vikas872/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/vikas872/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/vikas872/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0771-jewels-and-stones](https://github.com/vikas872/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/vikas872/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vikas872/LeetCode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Stack
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vikas872/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vikas872/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/vikas872/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [0771-jewels-and-stones](https://github.com/vikas872/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 ## Divide and Conquer
 |  |
 | ------- |
