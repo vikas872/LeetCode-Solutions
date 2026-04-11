@@ -9,7 +9,7 @@ class Solution:
 
         # try every starting position
         for start in range(n - m + 1):
-            if haystack[start:start + m] in needle:
+            if needle in haystack[start:start + m] :
                 return start
 
         return -1
