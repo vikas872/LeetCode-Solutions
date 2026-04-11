@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/vikas872/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0771-jewels-and-stones](https://github.com/vikas872/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/vikas872/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/vikas872/LeetCode-Solutions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vikas872/LeetCode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Stack
 |  |
