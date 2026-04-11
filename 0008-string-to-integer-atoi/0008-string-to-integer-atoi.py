@@ -16,7 +16,7 @@ class Solution:
             sign = 1
             i+=1
         ans = 0
-        while i<n and s[i].isnumeric():
+        while i<n and s[i].isdigit():
             ans = ans*10+int(s[i])
             i+=1
         
