@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/vikas872/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/vikas872/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/vikas872/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+| [0225-implement-stack-using-queues](https://github.com/vikas872/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vikas872/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0844-backspace-string-compare](https://github.com/vikas872/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/vikas872/LeetCode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vikas872/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/vikas872/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vikas872/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0641-design-circular-deque](https://github.com/vikas872/LeetCode-Solutions/tree/master/0641-design-circular-deque) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/vikas872/LeetCode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/vikas872/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vikas872/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0641-design-circular-deque](https://github.com/vikas872/LeetCode-Solutions/tree/master/0641-design-circular-deque) |
 ## Tree
