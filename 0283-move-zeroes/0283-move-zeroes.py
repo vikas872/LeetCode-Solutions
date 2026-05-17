@@ -9,4 +9,4 @@ class Solution:
         while ip<n:
             arr[ip]  =  0
             ip+=1
-        return arr 
+        # return arr 
