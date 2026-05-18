@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vikas872/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/vikas872/LeetCode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/vikas872/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vikas872/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/vikas872/LeetCode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/vikas872/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Design
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vikas872/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vikas872/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1200-minimum-absolute-difference](https://github.com/vikas872/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vikas872/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/vikas872/LeetCode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Number Theory
 |  |
@@ -292,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vikas872/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vikas872/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 <!---LeetCode Topics End-->
