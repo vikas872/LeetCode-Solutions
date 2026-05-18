@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-design-a-stack-with-increment-operation](https://github.com/vikas872/LeetCode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/vikas872/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/vikas872/LeetCode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/vikas872/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Design
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/vikas872/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/vikas872/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/vikas872/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/vikas872/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/vikas872/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/vikas872/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## String Matching
 |  |
 | ------- |
